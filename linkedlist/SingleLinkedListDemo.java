@@ -266,7 +266,11 @@ class SingleLinkedList {
 
         }
     }
+
+
 }
+
+
 
 
 //定义heronode，每个就是一个节点
